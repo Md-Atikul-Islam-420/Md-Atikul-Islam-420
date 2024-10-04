@@ -88,7 +88,7 @@ Skills: BOOTSTRAP / REACT / JS / HTML / CSS
   <br/>
 </a>
 
-![Md Atikul Islam's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Md-Atikul-Islam-420&custom_title=Md Atikul Islam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Md Atikul Islam's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Md-Atikul-Islam-420&custom_title=Harun's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 <br/>
 
